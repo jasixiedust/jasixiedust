@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Yasmin.<br>📫 How to reach me - jasixiedust@gmail.com<br><br>📖 I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job. 🛠<br><br>📖 Self-learning is one of the most important and enjoyable parts of my life ☺️. I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥. To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔.
 
-</P> 👨‍💻 I'm working with <a href="https://ituring.ir" target="blank">Turing</a> team. :heart: </P>
+</P> 👨‍💻 I'm currently working with <a href="https://ituring.ir" target="blank">Turing</a> team. :heart: </P>
 
 <img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center">
 
