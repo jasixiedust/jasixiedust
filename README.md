@@ -19,7 +19,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</P> 👨‍💻 I'm currently working with <a href="https://ituring.ir" target="blank">Turing</a> team :heart:. </P>
+</P> 👨‍💻 I'm currently working with <a href="https://ituring.ir" target="blank">Turing</a> team :. </P>
 
 <img src="https://iili.io/dSEzMoF.md.png" alt="dSEzMoF.md.png" border="0" align="center">
 
